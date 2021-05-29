@@ -11,6 +11,8 @@
 		AFDD5D17266151E40094EF75 /* TransceiverPath.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFDD5D16266151E40094EF75 /* TransceiverPath.swift */; };
 		AFDD5D1A2661523C0094EF75 /* TransceiverManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFDD5D192661523C0094EF75 /* TransceiverManager.swift */; };
 		AFDD5D1D266153920094EF75 /* Transceiver-extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFDD5D1C266153920094EF75 /* Transceiver-extension.swift */; };
+		AFDD5D202662498A0094EF75 /* Subscription.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFDD5D1F2662498A0094EF75 /* Subscription.swift */; };
+		AFDD5D30266268890094EF75 /* Weak.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFDD5D2F266268890094EF75 /* Weak.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		AFDD5D16266151E40094EF75 /* TransceiverPath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransceiverPath.swift; sourceTree = "<group>"; };
 		AFDD5D192661523C0094EF75 /* TransceiverManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransceiverManager.swift; sourceTree = "<group>"; };
 		AFDD5D1C266153920094EF75 /* Transceiver-extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Transceiver-extension.swift"; sourceTree = "<group>"; };
+		AFDD5D1F2662498A0094EF75 /* Subscription.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subscription.swift; sourceTree = "<group>"; };
+		AFDD5D2F266268890094EF75 /* Weak.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weak.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 				AFDD5D1C266153920094EF75 /* Transceiver-extension.swift */,
 				AFDD5D16266151E40094EF75 /* TransceiverPath.swift */,
 				AFDD5D192661523C0094EF75 /* TransceiverManager.swift */,
+				AFDD5D1F2662498A0094EF75 /* Subscription.swift */,
+				AFDD5D2F266268890094EF75 /* Weak.swift */,
 				AFDD5CB9266108C90094EF75 /* Info.plist */,
 			);
 			path = Source;
@@ -143,6 +149,8 @@
 				AFDD5CC2266109BE0094EF75 /* Transceiver.swift in Sources */,
 				AFDD5D1D266153920094EF75 /* Transceiver-extension.swift in Sources */,
 				AFDD5D17266151E40094EF75 /* TransceiverPath.swift in Sources */,
+				AFDD5D202662498A0094EF75 /* Subscription.swift in Sources */,
+				AFDD5D30266268890094EF75 /* Weak.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

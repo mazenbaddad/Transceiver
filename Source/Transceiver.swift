@@ -26,12 +26,12 @@ public protocol Transceiver {
     
     /// Whether the `Transceiver` Receive his own transmits or not.
     ///
-    /// You can Implement `observeMyTransmits` and change it to the flag you desire .
+    /// You can Implement `transceiverReceiveMyTransmits` and change it to the flag you desire .
     ///
     /// Default value is True.
     ///
     ///     var observeMyTransmits : Bool = true
-    var observeMyTransmits : Bool {get}
+    var transceiverReceiveMyTransmits : Bool {get}
 
     /// Called when data transmitted on the same paths the `Transceiver` observed.
     ///
