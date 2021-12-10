@@ -1,4 +1,4 @@
-## Many-to-Many Communication Using Protocol in Swift 
+## A notification dispatch mechanism that enables the broadcast of information to registered path observers Using protocols in Swift.
 
 
 ## Installation
